@@ -9,6 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
+I'm eunsu jang. Nice to meet you. umhaha:)
+
 
 ```
 Give examples
