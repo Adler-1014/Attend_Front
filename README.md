@@ -85,3 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rolalralo)](https://github.com/anuraghazra/github-readme-stats)
